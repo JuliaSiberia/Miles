@@ -5,6 +5,6 @@ public class main  {
         int miles = price/bonus;
 
         System.out.println("Начисленные мили " + miles);
-        
+
     }
 }
