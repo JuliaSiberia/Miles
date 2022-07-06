@@ -1,8 +1,8 @@
-public class main  {
+public class Miles  {
     public static void main(String[] args) {
         int price = 5000;
         int bonus = 20;
-        int miles = price/bonus;
+        int miles = price / bonus;
 
         System.out.println("Начисленные мили " + miles);
 
